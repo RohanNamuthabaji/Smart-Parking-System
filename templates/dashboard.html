@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Dashboard</title>
+</head>
+<body>
+
+<h2>🚗 Parking Slots</h2>
+
+<form method="post" action="/book">
+    {% for i in range(1, 11) %}
+        {% if i in booked_slots %}
+            <span style="background:red;color:white;padding:20px;margin:5px;display:inline-block;">
+                {{i}}
+            </span>
+        {% else %}
+            <button name="slot" value="{{i}}" style="background:green;color:white;padding:20px;margin:5px;">
+                {{i}}
+            </button>
+        {% endif %}
+    {% endfor %}
+</form>
+
+<h3>💳 Parking Fee: ₹50</h3>
+
+</body>
+</html>
