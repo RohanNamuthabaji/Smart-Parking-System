@@ -110,8 +110,8 @@ http://127.0.0.1:5000/
 <img width="1917" height="1015" alt="Screenshot 2026-03-18 155929" src="https://github.com/user-attachments/assets/e8016fe0-623d-44ae-9919-7f0c821492cd" />
 <img width="792" height="856" alt="Screenshot 2026-03-18 160559" src="https://github.com/user-attachments/assets/8f6bc831-2b6f-4f9a-a1b7-c3d046ef9c39" />
 <img width="950" height="553" alt="Screenshot 2026-03-18 161157" src="https://github.com/user-attachments/assets/9e0d94fd-67eb-404f-a2b2-8f0eaaa146db" />
-<img width="933" height="44<img width="948" height="432" alt="Screenshot 2026-03-18 161753" src="https://github.com/user-attachments/assets/076b0fe9-513d-4f77-8f79-9b2484bf1147" />
-7" alt="Screenshot 2026-03-18 161540" src="https://github.com/user-attachments/assets/6a8533fb-0494-44e8-9a7c-1aebcbc7cf3a" />
+<img width="948" height="432" alt="Screenshot 2026-03-18 161753" src="https://github.com/user-attachments/assets/076b0fe9-513d-4f77-8f79-9b2484bf1147" />
+<img width="950" height="533" alt="Screenshot 2026-03-18 161540" src="https://github.com/user-attachments/assets/6a8533fb-0494-44e8-9a7c-1aebcbc7cf3a" />
 
 
 
@@ -127,7 +127,7 @@ http://127.0.0.1:5000/
 
 ## 👨‍💻 Author
 
-Developed by **[Your Name]**
+Developed by NAMUTHABAJI ROHAN
 
 ---
 
